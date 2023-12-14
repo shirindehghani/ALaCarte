@@ -1,0 +1,7 @@
+{
+    "window_size":1,
+    "dic_vectors":"./models/vectors_25.pkl",
+    "dic_words":"./models/words_25.pkl",
+    "dic_words2":"./models/dic_words2.pkl",
+    "word2vec":"./models/word2vec_25.pkl"
+}
