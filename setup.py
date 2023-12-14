@@ -7,11 +7,11 @@ with open('requirements.txt') as r:
     required = r.read().splitlines()
 
 setuptools.setup(
-    name="media_freedom_project",
+    name="ALaCarte-word-embedding",
     version="1.0.0",
     author="Shirin Dehghani",
     author_email="shirin.dehghani1996@gmail.com",
-    description="A new pipeline for media_freedom measurement",
+    description="This is unoffcial implementation of ALC word embedding.",
     long_description=long_description,
     packages=setuptools.find_packages(),
     install_requires=required,
