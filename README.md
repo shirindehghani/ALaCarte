@@ -2,7 +2,7 @@
 
 This is an unofficial implementation of the AlaCarte word embedding, which is a lightweight method. It is as efficient as contextualized embeddings like BERT.
 
-![Alt text](image URL)
+![Article](https://github.com/shirindehghani/ALaCarte/blob/main/Images/ALaCarte.png)
 
 To run this code, you should download [Glove Vectors](https://nlp.stanford.edu/projects/glove/) and add them to the models directory.
 
